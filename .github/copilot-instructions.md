@@ -1,0 +1,8 @@
+- [x] Project requirements clarified: Next.js, JavaScript only, Tailwind CSS, React Testing Library, no TypeScript.
+- [x] Project scaffolded: folders for pages, components, hooks, services, styles, tests created.
+- [ ] Customize the project: add initial files and boilerplate.
+- [ ] Install required extensions: none needed for now.
+- [ ] Compile the project: will run after files are created.
+- [ ] Create and run task: will set up after initial code is ready.
+- [ ] Launch the project: will prompt user after setup.
+- [ ] Ensure documentation is complete: will update README after setup.
